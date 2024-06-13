@@ -1,0 +1,13 @@
+thefuzz==0.22.1
+openai==0.28
+ezpyzy
+sentencetransformers==2.2.2
+numpy==1.26.0
+tqdm
+krippendorff
+pandas
+scipy
+cattrs
+matplotlib
+nltk
+transformers
